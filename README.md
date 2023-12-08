@@ -1,8 +1,4 @@
 <div align="center">
-    <h1>👋 Hello, I'm OHSMASTER</h1>
-</div>
-
-<div align="center">
     <h2>🦆 About Me</h2>
     <p>
         <i>"In the tech world, I'm like a duck: serene above the water, but beneath the surface, there's a flurry of activity with Python scripting. That's the unique blend of calm and chaos in my coding journey."</i>
