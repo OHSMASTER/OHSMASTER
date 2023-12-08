@@ -8,18 +8,15 @@
 <hr>
 
 <div align="center">
-    <h2>💻 Favorite Operating Systems</h2>
-    <p>
-        <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-    </p>
+    <h2>💻 Favorite Operating Systems & 🚀 GitHub Stats</h2>
+    <table><tr>
+        <td>
+            <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+            <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohsmaster&layout=compact&theme=dark" alt="Top Languages"/>
+        </td>
+    </tr></table>
 </div>
 
-<hr>
-
-<div align="center">
-    <h2>🚀 GitHub Stats</h2>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohsmaster&layout=compact&theme=dark" alt="Top Languages"/>
-    </p>
-</div>
